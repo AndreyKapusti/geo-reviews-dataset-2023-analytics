@@ -25,3 +25,4 @@ build/
 
 # Прочее
 test.py
+geo-reviews-dataset-2023.parquet
